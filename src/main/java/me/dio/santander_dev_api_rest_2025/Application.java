@@ -16,6 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * # vscode Gradle Windows
  * .\gradlew bootRun --args="--spring.profiles.active=dev"
  */
+@OpenAPIDefinition(servers= {@Server(url="/", description="Default Server URL")})
 @SpringBootApplication
 public class Application {
 
