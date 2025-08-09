@@ -1,4 +1,4 @@
-package me.dio.santander_dev_api_rest_2025;
+package me.dio.santander_dev_api_rest_2025.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

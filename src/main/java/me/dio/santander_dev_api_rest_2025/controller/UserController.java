@@ -1,9 +1,7 @@
 package me.dio.santander_dev_api_rest_2025.controller;
 
 import java.net.URI;
-import java.util.List;
 
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
